@@ -201,6 +201,48 @@ This allows staged capital deployment.
 
 A scalable agro-industrial platform with strong financial and environmental value.
 
+---
+
+# 🧀 Future Expansion – Regional Dairy Cluster
+
+<p align="center">
+  <img src="images/future-dairy-cluster-model.png" width="1000"/>
+</p>
+
+The project is designed as a scalable regional dairy cluster platform.
+
+A future expansion scenario includes:
+
+- 3 × 1,800 head dairy farms
+- centralized milk processing
+- integrated biogas systems
+- regional dairy brand creation
+
+Estimated processing volume:
+
+## ~150,000 liters/day
+
+This production scale supports the commercial viability of a central dairy processing facility for:
+
+- milk
+- yogurt
+- drinkable yogurt (ayran / doogh)
+- cheese
+- butter
+- cream products
+
+This cluster model significantly improves:
+
+- transportation efficiency
+- processing margins
+- branding value
+- investor return
+- regional market penetration
+
+At larger scales, the model supports 6–10 dairy units within one industrial agricultural zone.
+
+This enables the creation of a fully independent regional dairy brand and industrial processing ecosystem.
+
 Prepared for:
 - strategic investors
 - family offices
