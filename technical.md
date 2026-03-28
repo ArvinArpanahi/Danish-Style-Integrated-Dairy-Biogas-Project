@@ -1,4 +1,4 @@
-[3/28/2026 10:55 AM] Arvin Arpanahi: <p align="center">
+<p align="center">
   <img src="images/industrial-biogas-plant-main.jpg.jpg" width="900"/>
 </p>
 
@@ -209,7 +209,7 @@ Typical retention:
 25–35 days
 
 Temperature:
-[3/28/2026 10:55 AM] Arvin Arpanahi: - mesophilic 35–38°C
+- mesophilic 35–38°C
 - thermophilic optional
 
 ---
