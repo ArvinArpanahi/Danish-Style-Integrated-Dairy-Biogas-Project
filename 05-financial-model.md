@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/integrated-dairy-biogas-aerial.jpg.jpg" width="900"/>
+  <img src="images/integrated-dairy-biogas-aerial.jpg" width="900"/>
 </p>
 
 # 💰 Investment Framework – Danish-Style Integrated Dairy & Biogas Project
@@ -149,7 +149,7 @@ $0.48–$0.60
 ## ⚡ Biogas Revenue Model
 
 <p align="center">
-  <img src="images/commercial-biogas-digester-plant.jpg.jpg" width="900"/>
+  <img src="images/commercial-biogas-digester-plant.jpg" width="900"/>
 </p>
 
 Revenue streams include:
@@ -180,7 +180,7 @@ Estimated energy revenue:
 Digestate monetization is an important secondary revenue stream.
 
 <p align="center">
-  <img src="images/integrated-biogas-value-chain-diagram.png.jpg" width="900"/>
+  <img src="images/integrated-biogas-value-chain-diagram.jpg" width="900"/>
 </p>
 
 Products:
