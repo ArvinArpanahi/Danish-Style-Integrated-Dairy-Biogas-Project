@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/circular-dairy-biogas-cycle.png.png" width="900"/>
+  <img src="images/circular-dairy-biogas-cycle.png" width="900"/>
 </p>
 
 # 📘 Executive Summary
