@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/industrial-biogas-plant-main.jpg.jpg" width="900"/>
+  <img src="images/industrial-biogas-plant-main.jpg" width="900"/>
 </p>
 
 # ⚙️ Technical Framework – Danish-Style Integrated Dairy & Biogas Project
@@ -60,7 +60,7 @@ depending on capital strategy and long-term ROI goals.
 ## 🐄 Dairy Farm Engineering Design
 
 <p align="center">
-  <img src="images/dairy-feeding-hall.jpg.jpg" width="900"/>
+  <img src="images/dairy-feeding-hall.jpg" width="900"/>
 </p>
 
 The dairy system is designed according to modern European livestock engineering principles.
@@ -152,7 +152,7 @@ This allows adaptation to multiple geographies including Iran.
 The project is engineered for full manure recovery.
 
 <p align="center">
-  <img src="images/dairy-farm-with-biogas.jpg.jpg" width="900"/>
+  <img src="images/dairy-farm-with-biogas.jpg" width="900"/>
 </p>
 
 Includes:
@@ -177,7 +177,7 @@ This becomes the primary feedstock for the biogas system.
 ## ⚡ Biogas Plant (Optional Integrated Module)
 
 <p align="center">
-  <img src="images/commercial-biogas-digester-plant.jpg.jpg" width="900"/>
+  <img src="images/commercial-biogas-digester-plant.jpg" width="900"/>
 </p>
 
 This module converts manure and organic waste into:
@@ -217,7 +217,7 @@ Temperature:
 ## ⚡ Energy Output
 
 <p align="center">
-  <img src="images/circular-dairy-biogas-cycle.png.png" width="900"/>
+  <img src="images/circular-dairy-biogas-cycle.png" width="900"/>
 </p>
 
 ### Medium Scale
@@ -247,7 +247,7 @@ Energy may be used for:
 ## 🌱 Fertilizer Recovery
 
 <p align="center">
-  <img src="images/integrated-biogas-value-chain-diagram.png.jpg" width="900"/>
+  <img src="images/integrated-biogas-value-chain-diagram.jpg" width="900"/>
 </p>
 
 Digestate is processed into:
