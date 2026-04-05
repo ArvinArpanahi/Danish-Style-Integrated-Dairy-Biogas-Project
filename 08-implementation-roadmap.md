@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/integrated-dairy-biogas-aerial.jpg.jpg" width="900"/>
+  <img src="images/integrated-dairy-biogas-aerial.jpg" width="900"/>
 </p>
 
 # 🏗 Implementation Roadmap – Danish-Style Integrated Dairy & Biogas Project
@@ -98,7 +98,7 @@ This is the investor decision phase.
 ## Duration: 2–3 months
 
 <p align="center">
-  <img src="images/integrated-dairy-biogas-aerial.jpg.jpg" width="900"/>
+  <img src="images/integrated-dairy-biogas-aerial.jpg" width="900"/>
 </p>
 
 Includes:
@@ -122,7 +122,7 @@ Key outputs:
 ## Duration: 4–6 months
 
 <p align="center">
-  <img src="images/dairy-feeding-hall.jpg.jpg" width="900"/>
+  <img src="images/dairy-feeding-hall.jpg" width="900"/>
 </p>
 
 Main scope:
@@ -177,7 +177,7 @@ This phase is essential whether biogas is included or not.
 ## Duration: 3–5 months
 
 <p align="center">
-  <img src="images/commercial-biogas-digester-plant.jpg.jpg" width="900"/>
+  <img src="images/commercial-biogas-digester-plant.jpg" width="900"/>
 </p>
 
 Includes:
@@ -197,7 +197,7 @@ This may run in parallel with dairy ramp-up.
 ## Duration: 1–2 months
 
 <p align="center">
-  <img src="images/biogas-equipment-closeup.jpg.jpg" width="900"/>
+  <img src="images/biogas-equipment-closeup.jpg" width="900"/>
 </p>
 
 Critical checks:
