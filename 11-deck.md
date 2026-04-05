@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/circular-dairy-biogas-cycle.png.png" width="900"/>
+  <img src="images/circular-dairy-biogas-cycle.png" width="900"/>
 </p>
 
 # 🐄 Danish-Style Integrated Dairy & Biogas Project
@@ -26,7 +26,7 @@ Core pillars:
 # Slide 2 — The Opportunity
 
 <p align="center">
-  <img src="images/integrated-dairy-biogas-aerial.jpg.jpg" width="900"/>
+  <img src="images/integrated-dairy-biogas-aerial.jpg" width="900"/>
 </p>
 
 Global demand drivers:
@@ -60,7 +60,7 @@ This reduces risk compared with single-stream farming models.
 # Slide 4 — Technical Infrastructure
 
 <p align="center">
-  <img src="images/industrial-biogas-plant-main.jpg.jpg" width="900"/>
+  <img src="images/industrial-biogas-plant-main.jpg" width="900"/>
 </p>
 
 Integrated infrastructure:
@@ -102,7 +102,7 @@ Built according to Danish and European standards.
 # Slide 6 — Revenue Model
 
 <p align="center">
-  <img src="images/integrated-biogas-value-chain-diagram.png.jpg" width="900"/>
+  <img src="images/integrated-biogas-value-chain-diagram.jpg" width="900"/>
 </p>
 
 ### Medium
@@ -136,7 +136,7 @@ Strong long-term recurring cash flow.
 # Slide 8 — ESG & Sustainability
 
 <p align="center">
-  <img src="images/biogas-tanks-top-view.jpg.jpg" width="900"/>
+  <img src="images/biogas-tanks-top-view.jpg" width="900"/>
 </p>
 
 Environmental benefits:
