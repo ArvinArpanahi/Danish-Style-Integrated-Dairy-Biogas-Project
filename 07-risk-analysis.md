@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/integrated-biogas-value-chain-diagram.png.jpg" width="900"/>
+  <img src="images/integrated-biogas-value-chain-diagram.jpg" width="900"/>
 </p>
 
 # ⚠️ Risk Assessment & Mitigation Strategy
