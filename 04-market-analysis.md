@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/industrial-dairy-farm-feeding.jpg" width="900"/>
+</p>
 # Market Analysis
 
 ## Overview
